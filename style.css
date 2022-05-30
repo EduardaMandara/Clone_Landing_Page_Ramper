@@ -7,3 +7,16 @@
 :root {
         
 }
+
+body {
+    background-color: orange;
+}
+
+#header {
+    background-color: antiquewhite;
+}
+
+#footer {
+    background-color: rgb(63, 63, 63);
+    
+}
