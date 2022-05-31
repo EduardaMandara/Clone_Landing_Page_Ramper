@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@100&family=Josefin+Sans:wght@100&family=Roboto:wght@100;300&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+:root {
+    Green: #1BB258;
+    Black-1: #333;
+    Black-2: rgb(51, 51, 51, 0.5);
+    Grey: #223;
+    Chat-Buttom: #3a7685;
+}
+
+body {
+}
