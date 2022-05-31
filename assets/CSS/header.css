@@ -7,27 +7,28 @@
 /* ______________________________________________________________________________ */
 /* Start All Header Here */
 #header {
+    width: 100%;
     position: fixed;
-    background: rgb(255, 255, 255, 0.6);
+    background: rgb(255, 255, 255);
 }
 
 #header a {
     color: #333;
     text-decoration: none;
-    transition: 0.3s;
 }
 
 #header nav img.logo {
     width: 200px;
-    margin: 20px;
+    margin-top: 20px;
+    margin-bottom: 15px;
 }
 
 #header a:hover {
-    opacity: 0.7;
+    opacity: 0.9;
 }
 
-#header nav .logo {
-    font-size: 24px;
+#header nav {
+    font-size: 16px;
     text-transform: uppercase;
     letter-spacing: 4px;
 }
@@ -39,7 +40,7 @@
 
     font-family: 'Barlow', sans-serif;
     background: #fff;
-    height: 8vh;
+    height: 10vh;
 }
 
 #header nav .nav__list {
@@ -48,6 +49,27 @@
 }
 
 #header nav .nav__list li {
-    letter-spacing: 3px;
-    margin-left: 32px;
+    letter-spacing: 2px;
+    margin-left: 30px;
+}
+
+.menu {
+    cursor: pointer;
+}
+
+#header nav ul .demo span {
+    color: #FFFFFF;
+    background: rgb(27, 178, 88);
+    height: 30px;
+    padding: 5px;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+#header nav ul span {
+    color: rgb(27, 178, 88);
+    font-weight: bold;
+    background: rgb(248, 248, 248);
+    border-radius: 5px;
+    padding: 5px;
 }
