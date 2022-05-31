@@ -5,6 +5,37 @@
 }
 
 #banner__inicial {
-    height: 500px;
+    width: auto;
+    height: 520px;
     background-color: #dadada;
+}
+
+#banner__inicial .banner__inicial {
+    display: flex;
+    margin-left: 40px;
+    align-items: center;
+    padding-top: 70px;
+}
+
+#banner__inicial .banner__inicial h1 {
+    color: #333;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+#banner__inicial .banner__inicial h1 span {
+    color: #1BB258;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+#banner__inicial .banner__inicial p {
+    color: #333;
+    font-size: 20px;
+    padding-top: 20px;
+}
+
+#banner__inicial .banner__inicial .image1 {
+    display: flex;
+    align-items: right;
 }
