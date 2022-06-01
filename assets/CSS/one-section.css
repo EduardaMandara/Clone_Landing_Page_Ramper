@@ -7,7 +7,7 @@
 #banner__inicial {
     width: auto;
     height: 520px;
-    background-color: rgb(218, 218, 218);
+    background-color: rgb(249, 249, 249);
 }
 
 #banner__inicial .banner__inicial {
@@ -43,11 +43,10 @@
 #banner__inicial .btn__demo {
     display: inline-block;
     
-    text-decoration: none;
     background: #095957;
     color: #fff;
     font-style: none;
-    
+
     width: 200px;
     height: 50px;
     
@@ -58,4 +57,5 @@
 }
 
 #banner__inicial .btn__demo buttom {
+    
 }

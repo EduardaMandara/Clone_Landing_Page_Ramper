@@ -4,9 +4,10 @@
     box-sizing: border-box;
 }
 
-#two-section {
-    width: auto;
+img {
     height: 500px;
-    background-color: rgb(218, 218, 218, 0.1);
 }
 
+#two-section .conteudo-2 {
+    display: inline-block;
+}
