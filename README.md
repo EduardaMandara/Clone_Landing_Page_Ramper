@@ -1,6 +1,6 @@
 <h3>
 
-[ ] Criação de uma Landing Page
+1- Criação de uma Landing Page.
 2- Criação de um modelo de e-mail
 3- Criação de um fluxo de automação para o envio de um e-mail a todos os contatos que se cadastraram na Landing Page.
 4- Realizar uma importação de contatos
